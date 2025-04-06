@@ -18,4 +18,4 @@ This was originally a module of the FreeBASIC Extended Library but has been extr
 5. Copy lib/*.a to your FreeBASIC install's lib dir
 
 ## Building on Other Platforms
-See winbuild.bat for a list of steps to build
+Use the provided Makefile or See winbuild.bat for a list of steps to build
